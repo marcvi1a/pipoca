@@ -1,0 +1,24 @@
+header {
+    align-items: center;
+}
+
+.player {
+    width: 120%;
+    margin-top: 1em;
+}
+
+#player1 {
+    margin-top: 0;
+}
+
+footer {
+    align-items: center;
+    flex-flow: column nowrap;
+    height: 5.5em;
+    justify-content: center;
+    padding: 1em;
+}
+
+footer p {
+    margin-bottom: 0em;
+}
